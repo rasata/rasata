@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rasata/storm</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</div>
@@ -476,7 +476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stanford-oval/storm</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</div>
@@ -1323,7 +1323,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2025, 14:10:44 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2025, 15:07:26 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
