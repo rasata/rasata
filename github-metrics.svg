@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Normation/rudder</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>railwayapp/nixpacks</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">App source + Nix packages + Docker = Image</div>
@@ -1072,7 +1072,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 497k out of 237m repositories</span>
+                                    <span class="gh">ranked 497k out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 26 times</div>
                             </div>
@@ -1110,7 +1110,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 695k out of 237m repositories</span>
+                                    <span class="gh">ranked 695k out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 47 stars</div>
                             </div>
@@ -1313,7 +1313,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2025, 16:07:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Feb 2025, 17:08:22 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
