@@ -1,0 +1,233 @@
+{
+  "profile": {
+    "login": "rasata",
+    "name": "Zo-Hasina Rasatavohary",
+    "bio": "#startup #nodejs #typescript #html | #innovation #developer and everything I love !",
+    "location": "France",
+    "company": "Zonova",
+    "blog": "www.zonova.io | resumify.app | www.aquantic.io | www.time-flow.eu",
+    "hireable": true,
+    "followers": 83,
+    "following": 126,
+    "public_repos": 1962,
+    "public_gists": 38,
+    "created_at": "2009-06-09T22:52:08Z",
+    "avatar_url": "https://avatars.githubusercontent.com/u/93783?v=4"
+  },
+  "organizations": [
+    {"login": "FR-Zonova", "name": "Zonova"},
+    {"login": "ResumifyApp", "name": "ResumifyApp"},
+    {"login": "AquanticTech", "name": "Aquantic"}
+  ],
+  "contributions_2025": {
+    "total_contributions": 739,
+    "total_commits": 233,
+    "total_pull_requests": 7,
+    "total_issues": 0,
+    "total_repository_contributions": 54
+  },
+  "contributed_to_orgs": [
+    {"repo": "AquanticTech/aquantic-front", "language": "Vue", "description": "Aquantic main website"},
+    {"repo": "AquanticTech/resumify-frontend", "language": null},
+    {"repo": "AquanticTech/resumify-backend", "language": "TypeScript"},
+    {"repo": "AquanticTech/littlebigconectionenhancery-web", "language": "HTML"},
+    {"repo": "AquanticTech/aquantic-test", "language": null}
+  ],
+  "starred_projects_interests": [
+    {"name": "openclaw/openclaw", "description": "AI personal assistant", "language": "TypeScript", "stars": 118084},
+    {"name": "facebookresearch/detectron2", "description": "Object detection, segmentation and visual recognition", "language": "Python", "stars": 34020},
+    {"name": "djcopley/ShellOracle", "description": "Terminal utility for intelligent shell command generation", "language": "Python", "stars": 314},
+    {"name": "ComposioHQ/awesome-claude-skills", "description": "Claude Skills resources", "language": "Python", "stars": 28312},
+    {"name": "coturn/coturn", "description": "TURN server project (WebRTC)", "language": "C", "stars": 13519}
+  ],
+  "recent_activity": [
+    {"type": "PushEvent", "repo": "rasata/rasata", "date": "2026-01-30"},
+    {"type": "ForkEvent", "repo": "openclaw/openclaw", "date": "2026-01-26"},
+    {"type": "WatchEvent", "repo": "facebookresearch/detectron2", "date": "2026-01-24"},
+    {"type": "PushEvent", "repo": "rasata/GAMADV-XTD3", "date": "2026-01-21"},
+    {"type": "ForkEvent", "repo": "djcopley/ShellOracle", "date": "2026-01-18"}
+  ],
+  "own_projects": [
+    {
+      "name": "Iphone-Powered",
+      "description": "Iphone icloud get information - nodejs Application in HTML5 to access icloud",
+      "language": "JavaScript",
+      "stars": 50,
+      "forks": 26,
+      "topics": ["iphone", "nodejs", "server", "website"],
+      "created_at": "2014-09-23"
+    },
+    {
+      "name": "solve-issue-killer-network-service",
+      "description": "Script to fix upload issues caused by Killer Network Services on MSI laptop",
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "created_at": "2025-07-07"
+    },
+    {
+      "name": "transcription-mp3-to-text",
+      "description": "Transcribe long mp3 files (12+ hours) to text using local AI model",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "created_at": "2025-04-09"
+    },
+    {
+      "name": "greeting-wall",
+      "description": "Selfhosted service for end of the year greetings",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created_at": "2024-12-24"
+    },
+    {
+      "name": "PDFDocToJson",
+      "description": "PDF Document to JSON converter",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "created_at": "2025-06-17"
+    },
+    {
+      "name": "demo-calculette",
+      "description": "Demo calculatrice app",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "created_at": "2025-04-16"
+    },
+    {
+      "name": "demo-calculette-scientifique",
+      "description": "Demo scientific calculator",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "created_at": "2025-03-28"
+    },
+    {
+      "name": "formation-bigquery",
+      "description": "BigQuery training materials",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "created_at": "2025-07-07"
+    },
+    {
+      "name": "training-design-chrome-and-saas",
+      "description": "A way to design an application using vibe coding",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "created_at": "2025-09-24"
+    },
+    {
+      "name": "rasata",
+      "description": "GitHub profile README generator",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "created_at": "2024-12-09"
+    }
+  ],
+  "forked_notable_projects": [
+    {"name": "LibreChat", "description": "Enhanced ChatGPT Clone with multi-provider support", "language": "TypeScript", "original_stars": "high"},
+    {"name": "amass", "description": "OWASP - In-depth attack surface mapping", "category": "security"},
+    {"name": "hexstrike-ai", "description": "MCP server for 150+ cybersecurity tools", "category": "security/AI"},
+    {"name": "CVE2CAPEC", "description": "MITRE ATT&CK Navigator from CVEs", "category": "security"},
+    {"name": "SniperPhish", "description": "Web-Email Spear Phishing Toolkit", "category": "security"},
+    {"name": "vulnerability-assessment-tool", "description": "OWASP dependency analysis", "category": "security"},
+    {"name": "DependencyCheck", "description": "OWASP SCA utility", "category": "security"},
+    {"name": "ShadowClone", "description": "Cloud-powered parallelization", "category": "security/cloud"},
+    {"name": "LLMs-from-scratch", "description": "Build ChatGPT-like LLM in PyTorch from scratch", "category": "AI/ML"},
+    {"name": "french-llm-from-scratch", "description": "Training French GPT model 260M params", "category": "AI/ML"},
+    {"name": "LLaMA-Factory-fine-tuning", "description": "Fine-tuning 100+ LLMs & VLMs", "category": "AI/ML"},
+    {"name": "whisper", "description": "OpenAI Whisper - robust speech recognition", "category": "AI/ML"},
+    {"name": "Deep-Live-Cam", "description": "Real-time face swap and deepfake", "category": "AI/ML"},
+    {"name": "Real-ESRGAN", "description": "Image/Video restoration", "category": "AI/ML"},
+    {"name": "detectron2", "description": "Facebook - object detection and segmentation", "category": "AI/ML"},
+    {"name": "smolvlm-realtime-webcam", "description": "Real-time webcam AI with SmolVLM", "category": "AI/ML"},
+    {"name": "memvid", "description": "Video-based AI memory library - semantic search in MP4", "category": "AI/ML"},
+    {"name": "geospy", "description": "Gemini-powered photo geolocation analysis", "category": "AI/ML"},
+    {"name": "screenshot-to-code", "description": "Convert screenshots to code (HTML/React/Vue)", "category": "AI/dev"},
+    {"name": "codellama", "description": "Meta CodeLlama inference", "category": "AI/dev"},
+    {"name": "openvino", "description": "Intel OpenVINO - AI inference optimization", "category": "AI/ML"},
+    {"name": "storm", "description": "Stanford - LLM-powered research report generator", "category": "AI/research"},
+    {"name": "llm-council", "description": "Multiple LLMs working together", "category": "AI"},
+    {"name": "Flowise", "description": "Build AI Agents visually", "category": "AI/agents"},
+    {"name": "browser-use", "description": "Make websites accessible for AI agents", "category": "AI/agents"},
+    {"name": "google-adk-samples", "description": "Google Agent Development Kit samples", "category": "AI/agents"},
+    {"name": "clawdbot", "description": "Personal AI assistant", "category": "AI/agents"},
+    {"name": "awesome-claude-skills", "description": "Claude AI workflows", "category": "AI/agents"},
+    {"name": "agents.md", "description": "Open format for guiding coding agents", "category": "AI/agents"},
+    {"name": "chrome-extension-llm-claude", "description": "In-browser AI agent", "category": "AI/agents"},
+    {"name": "ai-shell", "description": "Natural language to shell commands", "category": "AI/dev"},
+    {"name": "ShellOracle", "description": "Intelligent shell command generation", "category": "AI/dev"},
+    {"name": "pdf-document-layout-analysis", "description": "PDF layout analysis with AI", "category": "document/AI"},
+    {"name": "layout-parser", "description": "Deep Learning document image analysis", "category": "document/AI"},
+    {"name": "DocLayNet", "description": "Document layout annotation dataset", "category": "document/AI"},
+    {"name": "CompHRDoc", "description": "Microsoft - document evaluation", "category": "document/AI"},
+    {"name": "pdfme", "description": "PDF generation with TypeScript/React", "category": "document"},
+    {"name": "Stirling-PDF", "description": "Self-hosted PDF operations", "category": "document"},
+    {"name": "ts-pdf", "description": "PDF.js viewer with annotations", "category": "document"},
+    {"name": "simplepdf-embed", "description": "PDF editor in browser", "category": "document"},
+    {"name": "pdf-strip-watermark", "description": "Strip watermarks from PDF", "category": "document"},
+    {"name": "pouchdb", "description": "Pocket-sized offline-first database", "category": "database"},
+    {"name": "alasql", "description": "JavaScript SQL database for browser/Node", "category": "database"},
+    {"name": "baserow", "description": "Open source no-code database (Airtable alt)", "category": "database"},
+    {"name": "ganache", "description": "Local blockchain for Ethereum dev", "category": "blockchain"},
+    {"name": "coturn", "description": "TURN server (WebRTC)", "category": "networking"},
+    {"name": "zoraxy", "description": "HTTP reverse proxy", "category": "networking"},
+    {"name": "OpenGFW", "description": "Open source firewall implementation", "category": "networking"},
+    {"name": "kubespray", "description": "Production Kubernetes cluster deployment", "category": "devops"},
+    {"name": "devpod", "description": "Open source Codespaces alternative", "category": "devops"},
+    {"name": "coolify-cli", "description": "Coolify API CLI", "category": "devops"},
+    {"name": "rudder", "description": "Configuration and security automation platform", "category": "devops"},
+    {"name": "Pake", "description": "Turn webpages into desktop apps with Rust", "category": "desktop"},
+    {"name": "blockly", "description": "Google visual programming editor", "category": "education"},
+    {"name": "gibberlink", "description": "Two AI agents switching to sound-level protocol", "category": "AI/research"},
+    {"name": "pds", "description": "Bluesky Personal Data Server", "category": "social/decentralized"},
+    {"name": "metrics", "description": "GitHub infographics generator (30+ plugins)", "category": "github"},
+    {"name": "lnav", "description": "Log file navigator", "category": "devtools"},
+    {"name": "particles.js", "description": "JavaScript particles library", "category": "frontend"},
+    {"name": "mindful-browsing", "description": "Chrome extension to interrupt mindless browsing", "category": "productivity"},
+    {"name": "Auto_job_applier_linkedIn", "description": "Automated LinkedIn job application", "category": "automation"},
+    {"name": "GAMADV-XTD3", "description": "Google Workspace admin tool", "category": "admin"},
+    {"name": "AFE4490_Oximeter", "description": "Pulse oximeter shield for Arduino", "category": "hardware/IoT"},
+    {"name": "android-hce", "description": "Android Host Card Emulator", "category": "mobile/NFC"},
+    {"name": "cardpeek-emv", "description": "Smart card reader/analyzer", "category": "hardware/security"},
+    {"name": "QRCoder", "description": "QR Code implementation in C#", "category": "mobile"},
+    {"name": "node-delphi", "description": "Embed Node.js into Delphi", "category": "legacy"},
+    {"name": "delphimvcframework", "description": "Delphi MVC REST framework", "category": "legacy"},
+    {"name": "oracle-instantclient", "description": "Oracle InstantClient", "category": "database/legacy"}
+  ],
+  "analysis": {
+    "account_age_years": 16.5,
+    "languages_detected": ["JavaScript", "TypeScript", "Python", "HTML", "Java", "C#", "Ruby", "Vue", "Smarty"],
+    "domain_expertise": {
+      "AI_and_ML": "Deep involvement: LLMs from scratch, fine-tuning, computer vision (Detectron2, ESRGAN), speech (Whisper), AI agents (Flowise, browser-use, Claude skills), NLP",
+      "cybersecurity": "Offensive & defensive: OWASP tools (Amass, DependencyCheck), pentesting (HexStrike, SniperPhish), CVE/MITRE mapping, attack surface analysis",
+      "document_processing": "Heavy focus: PDF analysis, layout detection, OCR pipelines, document AI with multiple forked specialized tools",
+      "web_development": "Full-stack: Node.js, TypeScript, React, Vue, Chrome extensions",
+      "devops_infrastructure": "Kubernetes (kubespray), Docker, reverse proxies, cloud deployment (Coolify), dev environments (DevPod)",
+      "startup_founder": "Multiple products: Zonova, Resumify, Aquantic, Time-Flow",
+      "blockchain": "Ethereum development (Ganache)",
+      "hardware_iot": "Arduino/embedded (pulse oximeter), NFC (Host Card Emulation), smart cards",
+      "data_engineering": "BigQuery training, SQL databases, ETL",
+      "networking": "WebRTC (TURN/coturn), firewalls, reverse proxies",
+      "education_training": "Creates training materials and demo apps for teaching"
+    },
+    "unique_traits": {
+      "polyglot_coder": "Works across 9+ languages including niche ones (Delphi, Smarty)",
+      "massive_curation": "1962 public repos shows extreme breadth of technology awareness",
+      "security_plus_ai": "Rare combination of cybersecurity AND AI/ML expertise",
+      "hardware_to_cloud": "From Arduino/NFC hardware to Kubernetes cloud infrastructure",
+      "serial_entrepreneur": "4+ products/companies (Zonova, Resumify, Aquantic, Time-Flow)",
+      "early_adopter": "GitHub since 2009 (user #93783), consistently active for 16+ years",
+      "ai_agents_pioneer": "Multiple AI agent projects (Flowise, browser-use, Claude skills, coding agents)",
+      "document_ai_specialist": "Deep stack in document processing and layout analysis AI",
+      "open_source_advocate": "Massive forking/contribution pattern across diverse ecosystems",
+      "french_tech_ecosystem": "Based in France, building French LLMs, training materials in French"
+    }
+  }
+}
