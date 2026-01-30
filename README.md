@@ -37,7 +37,7 @@
   <a href="https://www.aquantic.io">
     <img src="https://img.shields.io/badge/💧_Aquantic-f093fb?style=for-the-badge" alt="Aquantic"/>
   </a>
-  <a href="https://www.time-flow.eu">
+  <a href="https://time-flow.eu">
     <img src="https://img.shields.io/badge/⏱️_Time--Flow-11998e?style=for-the-badge" alt="Time-Flow"/>
   </a>
 </p>
