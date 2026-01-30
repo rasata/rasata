@@ -12,13 +12,9 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
-
 <div align="center">
-  
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,50:764ba2,100:f093fb&amp;height=200&amp;section=header&text=Zo-Hasina%20Rasatavohary&fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Serial%20Entrepreneur%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Security%20Expert&amp;descAlignY=55&amp;descSize=16"/>
 
-<!-- Typing Animation -->
+  <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=667EEA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;random=false&amp;width=700&amp;height=100&amp;lines=%F0%9F%9A%80+Innovation+at+the+Speed+of+Your+Idea;%F0%9F%87%AB%F0%9F%87%B7+Building+the+Future+from+France+since+2009" alt="Typing SVG" />
 </a>
