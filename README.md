@@ -250,10 +250,7 @@ Time management and productivity solutions for modern teams and professionals.
 ---
 
 ## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasata&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;column=4&amp;margin-w=15&amp;margin-h=15&amp;rank=-C,-B" alt="GitHub Trophies"/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
