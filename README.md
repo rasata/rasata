@@ -248,9 +248,9 @@ Time management and productivity solutions for modern teams and professionals.
 </div>
 
 ---
-
 ## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](./assets/rasata-trophy.svg)](https://github.com/rasata)    
+
 
 ---
 
