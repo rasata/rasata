@@ -89,11 +89,6 @@ const zoHasina: TechFounder = {
     path of Digitalisation and Innovation`
 };
 ```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasata&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=667eea&amp;text_color=ffffff&amp;icon_color=f093fb&amp;langs_count=10" alt="Top Languages"/>
-</div>
-
 ---
 
 ## 🏢 My Ventures
