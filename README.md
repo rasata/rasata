@@ -60,8 +60,6 @@
 
 ## 🧬 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasata&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb&langs_count=8"/>
-
 ```typescript
 const zoHasina: TechFounder = {
   location: "🇫🇷 France",
@@ -96,7 +94,9 @@ const zoHasina: TechFounder = {
 };
 ```
 
-<br clear="both"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb&langs_count=10" alt="Top Languages"/>
+</div>
 
 ---
 
@@ -172,12 +172,12 @@ Time management and productivity solutions for modern teams and professionals.
 
 | Domain | Expertise | Key Projects |
 |:------:|:----------|:-------------|
-| 🤖 **AI & ML** | LLMs from scratch, Fine-tuning, Computer Vision, Speech Recognition, AI Agents | `LLMs-from-scratch`, `french-llm-from-scratch`, `detectron2`, `whisper`, `Flowise` |
+| 🤖 **AI & ML** | LLMs from scratch, Fine-tuning, Computer Vision, Speech Recognition, AI Agents | `transcription-mp3-to-text`, `whisper`, `detectron2`, `Flowise`, `LLaMA-Factory` |
 | 🔐 **Cybersecurity** | OWASP Tools, Pentesting, CVE/MITRE Mapping, Attack Surface Analysis | `amass`, `hexstrike-ai`, `DependencyCheck`, `SniperPhish`, `CVE2CAPEC` |
-| 📄 **Document AI** | PDF Analysis, Layout Detection, OCR Pipelines | `pdf-document-layout-analysis`, `layout-parser`, `DocLayNet`, `Stirling-PDF` |
-| 🌐 **Full-Stack** | Node.js, TypeScript, Vue, React, Chrome Extensions | `Iphone-Powered`, `http-server-basicauth-ssl`, `LibreChat` |
-| ☸️ **DevOps** | Kubernetes, Docker, Cloud Deployment, Dev Environments | `kubespray`, `devpod`, `coolify-cli`, `rudder` |
-| 🔌 **Hardware/IoT** | Arduino, NFC, Smart Cards, Embedded Systems | `AFE4490_Oximeter`, `android-hce`, `cardpeek-emv` |
+| 📄 **Document AI** | PDF Analysis, Layout Detection, OCR Pipelines, Document Processing | `PDFDocToJson`, `pdfme`, `ts-pdf`, `simplepdf-embed`, `CompHRDoc` |
+| 🌐 **Full-Stack** | Node.js, TypeScript, Vue, React, Chrome Extensions | `Iphone-Powered`, `http-server-basicauth-ssl`, `LibreChat`, `aquantic-front` |
+| ☸️ **DevOps** | Kubernetes, Docker, Cloud Deployment, Dev Environments | `kubespray`, `devpod`, `coolify-cli`, `rudder`, `packer-templates` |
+| 🔌 **Hardware/IoT** | Arduino, NFC, Smart Cards, Embedded Systems | `AFE4490_Oximeter`, `android-hce`, `cardpeek-emv`, `QRCoder` |
 
 </div>
 
@@ -318,7 +318,7 @@ mindmap
   root((Zo-Hasina))
     AI/ML
       LLMs
-        French GPT 260M
+        LLaMA-Factory
         Fine-tuning
         LangChain
       Computer Vision
@@ -327,7 +327,7 @@ mindmap
         Deep-Live-Cam
       Speech
         Whisper
-        Transcription
+        transcription-mp3-to-text
       Agents
         Flowise
         Browser-use
@@ -344,11 +344,12 @@ mindmap
         MITRE ATT&CK
     Document AI
       PDF Processing
-        Stirling-PDF
+        PDFDocToJson
         pdfme
+        ts-pdf
       Layout Analysis
-        DocLayNet
-        Layout-parser
+        CompHRDoc
+        simplepdf-embed
     DevOps
       Containers
         Docker
