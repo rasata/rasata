@@ -41,7 +41,7 @@ jobs:
           cd profile-repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet && exit 0
           git add README.md
+          git diff --staged --quiet && exit 0
           git commit -m "docs: update profile README [automated]"
           git push
