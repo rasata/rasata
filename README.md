@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Since-2009-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Since 2009"/>
   <img src="https://img.shields.io/badge/User%20%23-93783-667eea?style=for-the-badge" alt="Early Adopter"/>
   <img src="https://img.shields.io/badge/16%2B%20Years-Open%20Source-f093fb?style=for-the-badge&amp;logo=opensourceinitiative&amp;logoColor=white" alt="16+ Years"/>
+  <img src="https://img.shields.io/badge/MIT%20Professional%20Education-AI%20Certified%202026-A31F34?style=for-the-badge" alt="MIT AI Certified 2026"/>
 </p>
 
 <!-- Social Badges -->
@@ -176,6 +177,128 @@ Secure document intelligence by ZONOVA Research. Private, on-premise AI to analy
 </table>
 
 </div>
+
+---
+
+## 🎓 Education & Credentials
+
+<div align="center">
+
+[![MIT](https://img.shields.io/badge/MIT%20Professional%20Education-A31F34?style=for-the-badge)](https://professional.mit.edu/)
+
+**🏅 Certification in Artificial Intelligence Applied to Data Science** · *MIT Professional Education* · Mar – Jul 2026
+Applied Artificial Intelligence & Data Sciences
+
+</div>
+
+<details>
+<summary><b>📚 Full academic background & certifications</b></summary>
+
+<br/>
+
+| Year | Institution | Qualification |
+|:----:|:------------|:--------------|
+| 2026 | **MIT Professional Education** | Certification in AI Applied to Data Science — Applied AI & Data Sciences |
+| 2005 | **UTBM** — Université de Technologie de Belfort-Montbéliard | DESS *Innov-acteur*, Innovation |
+| 2001–2004 | **ENSISA** — École Nationale Supérieure d'Ingénieurs Sud Alsace | Diplôme d'Ingénieur, Ingénierie Logicielle |
+| 2001–2004 | **ENSISA** | DEA — Diplôme d'Études Approfondies, Intelligence Artificielle |
+| 1999–2001 | **Université de Haute-Alsace** — Mulhouse-Colmar | DUT GEII — Génie Électrique & Informatique Industrielle |
+
+**Certifications:** `TOEIC — 850`
+
+</details>
+
+<details>
+<summary><b>📝 Publications & Research</b></summary>
+
+<br/>
+
+- 📄 **Towards a Metrology of Exhaustiveness in Document Analysis** — A Systemic Framework for Layout Completeness Assessment
+- 🧠 **State Space Models as CPU-Native Neural Network Architectures**
+- ⚙️ **Cross-Platform Inference of 1.58-bit State Space Models** — ARM NEON vs x86 AVX-512 vs GPU CUDA
+- 🏭 **Break-Through Effectiveness for the Maintenance and Dismantlement of Power Plants** — Application of Virtual Reality
+
+</details>
+
+---
+
+## 💼 Professional Journey
+
+<div align="center">
+
+**20+ years** across AI/Data Science, software engineering, consulting, teaching and entrepreneurship.
+
+</div>
+
+<details>
+<summary><b>🏢 Current roles</b></summary>
+
+<br/>
+
+| Role | Organization | Period |
+|:-----|:-------------|:------:|
+| 🤖 **Full & Transversal Stack AI Consultant Analyst** (DS, AI Model, EDA, LLMs) | Aquantic (Zonova SARL) | 2026 → now |
+| 🧠 **Founder & Designer of MatrixAI.fr** — secure AI document intelligence (ZONOVA Research) | Aquantic (Zonova SARL) | 2024 → now |
+| 🌐 **Consultant multidisciplinaire Tech & Innovation** — NodeJS expert, Team/Squad Lead, Low/NoCode, AI trainer, Google Workspace admin | Aquantic (Zonova SARL) | 2017 → now |
+| 📈 **Fondateur & Architecte de Croissance Stratégique** — consulting, training & software distribution | Aquantic (Zonova SARL) | 2017 → now |
+| 📄 **CEO & Investor** | Resumify | 2021 → now |
+| 🎓 **Lecturer (Chargé de Cours/TD)** — Intelligence économique & data processing | UTBM | 2017 → now |
+
+</details>
+
+<details>
+<summary><b>📜 Previous experience</b></summary>
+
+<br/>
+
+| Role | Organization | Period |
+|:-----|:-------------|:------:|
+| 🌍 Advisor of International Institution in Digital Technology (Blockchain, Crypto, Data Science) | — | 2017 – 2022 |
+| 💡 Expert en innovation numérique & Système d'Information 2.0 | Puissance E | 2016 – 2021 |
+| 🎓 Lecturer (Chargé de Cours/TD) | Université de Franche-Comté | 2017 – 2019 |
+| 🤝 Member | APM — Association Progrès du Management | 2016 – 2018 |
+| 🏛️ Président Directeur Général & Fondateur — portfolio clients, CA > 1 M€ | Digit-Prime | 2013 – 2017 |
+| 🇨🇭 Co-founder & Partner | Digital-Solutions (ex Digit-Prime Switzerland) | 2016 – 2017 |
+| 👔 Founder & CEO | Company in creation phasis | 2012 |
+| ☕ Chef de projet & Expert Java — offshore project support | — | 2007 – 2009 |
+| 🛠️ Chef de Projet & Technical Lead — offshore (up to 7 engineers) | — | 2005 – 2007 |
+| 💻 Developer (new technologies) → Junior Developer | Software Editor | 2004 – 2005 |
+
+</details>
+
+---
+
+## 🏗️ Selected Client Work & Realizations
+
+<div align="center">
+
+Highlights from the [Aquantic portfolio](https://portfolio-aquantic.saas-application.app/) — AI, Document Intelligence, training and product R&D.
+
+</div>
+
+<details>
+<summary><b>🚀 Explore 14 realizations</b></summary>
+
+<br/>
+
+| Project | Description | Client / Domain |
+|:--------|:------------|:----------------|
+| 📑 **Comparaison Intelligente de Documents PDF (IA)** | AI-driven PDF comparison — saved the equivalent of **350 hours** of work | CAC 40 group — Nuclear/Energy |
+| 🎓 **AI Training for 300+ people** | 6-part AI program (LLM, NLP, deep learning, deployment) — **85% satisfaction** | Groupama |
+| 🗂️ **Document Classification & Analysis Platform** | Import, organize & extract information from PDFs and images via AI | Document AI |
+| 💬 **ia-Jean — AI prompting app** | Early ChatGPT-era multi-prompting library across several LLMs | R&D — LLM |
+| 🧭 **LeadPilot IA** | Chrome extension structuring B2B LinkedIn conversations & analyzing performance | B2B / AI Agent |
+| 📄 **Resumify** | Data-driven platform turning a career profile into a shareable digital portfolio | HR / SaaS |
+| 💊 **AI Model for Pharmacy** | PoC recommending para-pharmaceutical products for partner pharmacies | Pharma / Health |
+| 📞 **Leexi integration — support call analysis** | NLP analysis of support calls to detect emotions & extract insights | Customer Support |
+| 🎙️ **Speech Emotion Recognition** | Research recognizing joy, sadness, anger, surprise from voice datasets | R&D — Speech |
+| 🌊 **AI strategy for fluidics startup** | Technical & budget guidance for AI predicting CFD physical quantities | CFD / Industry |
+| 🏭 **Formation Formateurs 4.0** | Digital-tools & AI training for educators (foundry industry) | Training / Industry |
+| 📦 **Logistics management suite** | Mobile app + REST web back-office for trade-fair logistics | SEMPEX (Basel MESSE) |
+| 📊 **Calculation Desk** | Free office software to open/edit Excel & OpenOffice spreadsheets | Freeware / Tools |
+| ⌨️ **PowerExpander** | Windows text-snippet library with instant hotkey access | Desktop / Tools |
+
+</details>
 
 ---
 
@@ -449,8 +572,11 @@ mindmap
   ├─ 📄 Building Resumify (2024-Now)                                       │
   │   AI-powered portfolio platform                                        │
   │                                                                        │
-  ├─ 🧠 Launched MatrixAI (2025)                                           │
+  ├─ 🧠 Launched MatrixAI (2024)                                           │
   │   Secure Document Intelligence — ZONOVA Research                       │
+  │                                                                        │
+  ├─ 🎓 MIT Professional Education (2026)                                   │
+  │   AI Applied to Data Science — Certified                               │
   │                                                                        │
   └─ 🚀 2025: 739 contributions & counting!                                │
       233 commits | 7 PRs | 54 repo contributions                          │
