@@ -49,9 +49,9 @@
 <!-- Counter Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rasata&amp;style=for-the-badge&amp;color=667eea&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Repos-1962-764ba2?style=for-the-badge&amp;logo=github" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Followers-83-f093fb?style=for-the-badge&amp;logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/2025%20Contributions-739-11998e?style=for-the-badge" alt="2025 Contributions"/>
+  <img src="https://img.shields.io/badge/Repos-2088-764ba2?style=for-the-badge&amp;logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Followers-96-f093fb?style=for-the-badge&amp;logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/2026%20Contributions-3600-11998e?style=for-the-badge" alt="2026 Contributions"/>
 </p>
 
 </div>
@@ -378,17 +378,18 @@ Highlights from the [Aquantic portfolio](https://portfolio-aquantic.saas-applica
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rasata&amp;custom_title=Contribution%20Graph&amp;bg_color=0d1117&amp;color=667eea&amp;line=f093fb&amp;point=ffffff&amp;area_color=764ba2&amp;area=true&amp;hide_border=true" alt="Activity Graph"/>
 </div>
 
-<!-- 2025 Stats Card -->
+<!-- Activity History Card -->
 <div align="center">
-  
-### 📈 2025 Activity
-  
-| Metric | Count |
-|:------:|:-----:|
-| 🔥 Total Contributions | **739** |
-| 📝 Commits | **233** |
-| 🔀 Pull Requests | **7** |
-| 📦 Repository Contributions | **54** |
+
+### 📈 Activity History — 2024 → 2026
+
+| Year | 🔥 Contributions | 📝 Commits | 🔀 Pull Requests | 📦 Repos Contributed |
+|:----:|:---------------:|:----------:|:---------------:|:--------------------:|
+| **2024** | 389 | 123 | 8 | 36 |
+| **2025** | 1,037 | 530 | 5 | 59 |
+| **2026** ⏳ | **3,600** | 111 | 5 | 63 |
+
+<sub>📊 Including private contributions · 2026 figures as of Oct 26, 2026 — and counting 🚀</sub>
 
 </div>
 
@@ -531,7 +532,7 @@ mindmap
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://gist.github.com/rasata">
-    <img src="https://img.shields.io/badge/Gists-38-764ba2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Gists"/>
+    <img src="https://img.shields.io/badge/Gists-39-764ba2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Gists"/>
   </a>
 </p>
 
@@ -555,7 +556,7 @@ mindmap
 <div align="center">
 
 ```
-2009 ─────────────────────────────────────────────────────────────────── 2025
+2009 ─────────────────────────────────────────────────────────────────── 2026
   │                                                                        │
   ├─ 🎂 Joined GitHub (June 9, 2009)                                       │
   │   User #93783 - Early Adopter                                          │
@@ -578,8 +579,8 @@ mindmap
   ├─ 🎓 MIT Professional Education (2026)                                   │
   │   AI Applied to Data Science — Certified                               │
   │                                                                        │
-  └─ 🚀 2025: 739 contributions & counting!                                │
-      233 commits | 7 PRs | 54 repo contributions                          │
+  └─ 🚀 Growth: 389 (2024) → 1,037 (2025) → 3,600 (2026)                   │
+      contributions & counting! | 2088 repos | 96 followers                │
 ```
 
 </div>
