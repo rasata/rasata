@@ -40,6 +40,9 @@
   <a href="https://time-flow.eu">
     <img src="https://img.shields.io/badge/⏱️_Time--Flow-11998e?style=for-the-badge" alt="Time-Flow"/>
   </a>
+  <a href="https://matrixai.fr">
+    <img src="https://img.shields.io/badge/🧠_MatrixAI-16a34a?style=for-the-badge" alt="MatrixAI"/>
+  </a>
 </p>
 
 <!-- Counter Badges -->
@@ -148,6 +151,25 @@ Digital innovation, training (Docker, Kubernetes), personality testing for HR, m
 Time management and productivity solutions for modern teams and professionals.
 
 [![Website](https://img.shields.io/badge/Visit-time--flow.eu-11998e?style=for-the-badge)](https://www.time-flow.eu)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 MatrixAI
+**Intelligence Documentaire Sécurisée**
+
+<img src="https://img.shields.io/badge/Status-Beta-ff9100?style=flat-square"/>
+
+Secure document intelligence by ZONOVA Research. Private, on-premise AI to analyze, extract and reason over sensitive documents without leaking your data.
+
+[![Website](https://img.shields.io/badge/Visit-matrixai.fr-16a34a?style=for-the-badge)](https://matrixai.fr)
+
+</td>
+<td align="center" width="50%">
+
+<!-- Reserved for the next venture 🚀 -->
 
 </td>
 </tr>
@@ -426,6 +448,9 @@ mindmap
   │                                                                        │
   ├─ 📄 Building Resumify (2024-Now)                                       │
   │   AI-powered portfolio platform                                        │
+  │                                                                        │
+  ├─ 🧠 Launched MatrixAI (2025)                                           │
+  │   Secure Document Intelligence — ZONOVA Research                       │
   │                                                                        │
   └─ 🚀 2025: 739 contributions & counting!                                │
       233 commits | 7 PRs | 54 repo contributions                          │
